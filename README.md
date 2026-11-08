@@ -39,3 +39,7 @@
 - <https://marble.worldlabs.ai/world/fcbe805d-3504-4c9e-917b-c3f2180ff602>
 - Figma · 网页界面：<https://www.figma.com/design/yBv7SO4vTSRjAX3h08fAfB/web%E7%95%8C%E9%9D%A2?node-id=51-2088&t=kK4ZY0Ifwy5kZetP-1>
 - Google Docs · 文档：<https://docs.google.com/document/d/1NYTXbnEFxbVTbjQDMAssBNSL9DD-XaTTCSF5Vm7WiIM/edit?pli=1&tab=t.5ytahijl4vr2#heading=h.9tx7tok02lin>
+
+### 工具
+
+- Tripo3D Studio — <https://studio.tripo3d.ai/?category=featured&model_type=all&page_type=1.2&recommended=recommended&use_case=all>
