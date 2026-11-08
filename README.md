@@ -25,6 +25,12 @@
 
 ## 一些网站留存
 
+### 已部署页面
+
+- V2 · L-Pro Anatomy — <https://lzllzllzllzllzl.github.io/V2-L-Pro-Anatomy-main/>
+- V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
+- HaloWash Anatomy · Pod — <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
+
 ### 10/11 世界
 
 - <https://marble.worldlabs.ai/world/9b77fa62-baf5-4e4e-af2c-e267e3552250>
