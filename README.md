@@ -2,6 +2,10 @@
 
 > 本仓库所有内容仅做留存。
 
+## 主模型
+
+[HaloWash_pod_v4_hybrid.blend](./HaloWash_pod_v4_hybrid.blend) — HaloWash Pod v4 hybrid 的 Blender 工程文件（约 89.6 MB），作为本仓库的主模型留存。
+
 ## 写在最后
 
 我是来自 HKU 的 Lee。
@@ -19,6 +23,7 @@
 | `LPro_Technical_Paper.pdf` | 技术论文 |
 | `Powerpoint.pdf` | 演示文稿 |
 | `website link.pdf` | 网站链接留存 |
+| `HaloWash_pod_v4_hybrid.blend` | 主模型 · Blender 工程 |
 | `L-Pro-Website/` | 网页前端 |
 | `V3-Halowash-little-worlds-main-main/` | 小世界 3D 场景 |
 | `我的形状/` | Blender 造型工程 |
@@ -29,6 +34,7 @@
 
 - V2 · L-Pro Anatomy — <https://lzllzllzllzllzl.github.io/V2-L-Pro-Anatomy-main/>
 - V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
+- Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
 - HaloWash Anatomy · Pod — <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
 
 ### 10/11 世界
