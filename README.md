@@ -32,6 +32,8 @@
 
 ### 已部署页面
 
+- Official website — <https://suli062777-oss.github.io/k-pro-web-demo/?lang=en&v=7495b02#home>
+- Mobile APP — <https://lzllzllzllzllzl.github.io/L-Pro-Website/#remote>
 - V2 · L-Pro Anatomy — <https://lzllzllzllzllzl.github.io/V2-L-Pro-Anatomy-main/>
 - V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
 - Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
