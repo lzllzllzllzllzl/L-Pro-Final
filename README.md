@@ -38,6 +38,7 @@
 - V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
 - Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
 - HaloWash Anatomy · Pod — <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
+- App design for the product <https://lzllzllzllzllzl.github.io/HaloWash-Concept-Deck/>
 
 ### 10/11 世界
 
