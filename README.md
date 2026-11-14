@@ -31,26 +31,23 @@
 ## 一些网站留存
 
 ### 已部署页面
-
+### 官网部分
 - 大而全官网 — <https://suli062777-oss.github.io/k-pro-web-demo/?lang=en&v=7495b02#home>
 - 带手势识别的官网+功能演示 — <https://lzllzllzllzllzl.github.io/L-Pro-Website/#remote>
 - 比较前期的官网 <https://lzllzllzllzllzl.github.io/Halowash-page/>
 - 带手势识别的官网 初版 <https://sensoria-psi.vercel.app/>  <https://github.com/lzllzllzllzllzl/Sensoria>
-
+### 爆炸功能部分
 - 爆炸功能演示 V3 HaloWash Anatomy · Pod — <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
 - 修缮后的爆炸功能演示 V4 · L-Pro Anatomy — <https://lzllzllzllzllzl.github.io/V2-L-Pro-Anatomy-main/>
-- 修缮前的爆炸功能演示 V3 · L-Pro Anatomy-slides - <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
-
-
-- 小世界 V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
-- 小世界 V1 Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
+### 小世界部分
 - 比较简单的小世界V1.1 <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
 - 比较完善的小世界V2 <https://lzllzllzllzllzl.github.io/V2-Halowash-little-worlds-main/>
-
+- 小世界 V3 · Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/V3-Halowash-little-worlds/index.html>
+### 原型图部分
 
 - 手机APP 设计原型图 App design for the product <https://lzllzllzllzllzl.github.io/HaloWash-Concept-Deck/>
 
-
+### 探索部分
 - 对于爆炸的火箭探索 <https://rocket-beta-mocha.vercel.app/>
 - 非常早期的爆炸功能展示<https://halowash-demo.vercel.app/>
 - 对于外景搭建和模型划分的展示<https://villa-ravine.vercel.app/>
