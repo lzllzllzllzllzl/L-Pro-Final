@@ -40,6 +40,13 @@
 - Halowash Little Worlds — <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
 - HaloWash Anatomy · Pod — <https://lzllzllzllzllzl.github.io/HaloWash-Anatomy/pod.html>
 - App design for the product <https://lzllzllzllzllzl.github.io/HaloWash-Concept-Deck/>
+- <https://sensoria-psi.vercel.app/>  <https://github.com/lzllzllzllzllzl/Sensoria>
+- <https://rocket-beta-mocha.vercel.app/>
+- <https://halowash-demo.vercel.app/>
+- <https://villa-ravine.vercel.app/>
+- <https://lzllzllzllzllzl.github.io/Halowash-page/>
+- <https://lzllzllzllzllzl.github.io/Halowash-little-worlds/>
+- <https://lzllzllzllzllzl.github.io/V2-Halowash-little-worlds-main/>
 
 ### 10/11 世界
 
